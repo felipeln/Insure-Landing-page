@@ -96,7 +96,6 @@ nav ul li:active{
 .mobile{
     display: none;
 }
-
 /* introduçao */
 #introduction{
     background-color: var(--violet);
